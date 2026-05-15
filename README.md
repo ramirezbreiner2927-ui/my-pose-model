@@ -58,6 +58,10 @@ PoseNet detecta puntos corporales.
 El modelo clasifica la pose.
 Se muestra el jugador con mayor probabilidad.
 🏆 Capturas del sistema
+<img width="1920" height="1032" alt="Captura de pantalla 2026-05-15 165733" src="https://github.com/user-attachments/assets/9a50789c-6bd4-4ac1-94f9-db83ac093b71" />
+<img width="1920" height="1032" alt="Captura de pantalla 2026-05-15 165747" src="https://github.com/user-attachments/assets/e8f16c72-5a6d-40eb-907e-e2ce1676f899" />
+
+
 
 Puedes agregar aquí imágenes del proyecto:
 
