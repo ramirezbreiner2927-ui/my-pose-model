@@ -63,4 +63,11 @@ Se muestra el jugador con mayor probabilidad.
 
  Autores:
 
-Desarrollado por XD XD 🚀
+Luis Bertiz — Líder del proyecto / Coordinador general
+Encargado de organizar tareas, supervisar avances y coordinar la integración final del proyecto.
+Joseph Cordoba — Desarrollador de IA y entrenamiento del modelo
+Responsable del entrenamiento en Teachable Machine y ajuste del modelo de reconocimiento de poses.
+Camilo Herrera — Diseñador UI/UX y Frontend
+Encargado del diseño visual de la interfaz HTML/CSS y experiencia de usuario del sistema.
+Breiner Ramirez — Desarrollador e integrador del sistema
+Responsable de conectar cámara, modelo IA, lógica en JavaScript y pruebas funcionales del detector. 🚀
